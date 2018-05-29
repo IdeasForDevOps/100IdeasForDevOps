@@ -26,14 +26,14 @@
 |  20 | Hire with very clear objectives for the first 6 months and schedule monthly review meetings and yearly goals | HR; Skills; Learning |
 |  21 | Announce prizes for simplification or automation of processes | Simplification; Compensation |
 |  22 | Set financial incentives for objectives achieved in less time than planned | Compensation; Cultural Change |
-|  23 | Ops will only get their bonus only if they achieve their SLA with a 0.02% delta: 99.9%+ 0.02%.  |  |
+|  23 | Ops will only get their bonus only if they achieve their SLA with a 0.02% delta: 99.9%+ 0.02%.  | Compensation  |
 |  24 | Create financial benefits for all staff involved in running a service | Incentivize Responsibility |
-|  25 | Ask IT managers to reduce cost by 20% and to cut release cycles into half every quarter | Managing Trade-offs |
-|  26 | So you did not have a single outage in the last month! Restart production now. |  |
-|  27 | Everybody must do oncall rotations, it's free money anyways.  |  |
-|  28 | Make on-call voluntary. If you don't have a hard time finding engineers. Your must have reliable system. |  |
-|  29 | Make on-call voluntary. If you don't have a hard time finding engineers. Your DevOps maturity is high. |  |
-|  30 | Stop feature development, if your engineers do not create code for more than 50% of their time. |  |
+|  25 | Ask IT managers to reduce cost by 20% and to cut release cycles into half every quarter | Managing Trade-offs; Cost reduction |
+|  26 | So you did not have a single outage in the last month! Restart production now. | Cultural Change |
+|  27 | Everybody must do oncall rotations, it's free money anyways.  | Compensaton; Incentivize Responsibility |
+|  28 | Make on-call voluntary. If you don't have a hard time finding engineers. Your must have reliable system. | Cultural Change; Incentivize Responsibility |
+|  29 | Make on-call voluntary. If you don't have a hard time finding engineers, then your DevOps maturity is high. | Incentivize Responsibility |
+|  30 | Stop feature development, if your engineers do not create code for more than 50% of their time. | Cultural Change |
 |  31 | If you are having a DevOps Team, you're doing it wrong.  |  |
 |  32 | If all of your development is done externally, you're doing it wrong. |  |
 |  33 | If you are outsourcing on-call, you're doing it wrong.  |  |
@@ -88,8 +88,8 @@
 |  82 | **....value developer velocity....** |  |
 |  83 | Development, staging, or test are like production, don't give your developers access to these systems.  | Discipline |
 |  84 | Record and meter ssh-access, put incentives to lower the total login count.  | Compensation; Cultural Change |
-|  85 | You don't do DevOps to reduce cost in the first place.  |  |
-|  86 | Code that is not in production is a liability | Lean; |
+|  85 | You don't do DevOps to reduce cost in the first place.  | Cultural Change |
+|  86 | Code that is not in production is a liability | Lean |
 |  87 | Manage a top ten list of long running systems, put it on a big screen, call it wall of shame.  |  |
 |  88 | Make everything a software problem |  |
 |  89 | Instead of wasting time and resources fighting the inevitable, empower developers and reap the rewards. |  |
