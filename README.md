@@ -5,6 +5,7 @@
 
 * Coding
 * Compensation
+* Communication
 * Confidence
 * Continous learning, experimenting
 * Cost reduction
@@ -22,8 +23,9 @@
 * Managing Trade-offs
 * Organization
 * Organizational Change
+* Outsourcing
 * Process
-* Reliabilty
+* Reliability
 * Security
 * Self-service
 * Simplification
@@ -64,22 +66,22 @@
 |  28 | Make on-call voluntary. If you don't have a hard time finding engineers. Your must have reliable system. | Cultural Change; Incentivize Responsibility |
 |  29 | Make on-call voluntary. If you don't have a hard time finding engineers, then your DevOps maturity is high. | Incentivize Responsibility |
 |  30 | Stop feature development, if your engineers do not create code for more than 50% of their time. | Cultural Change |
-|  31 | If you are having a DevOps Team, you're doing it wrong.  |  |
-|  32 | If all of your development is done externally, you're doing it wrong. |  |
-|  33 | If you are outsourcing on-call, you're doing it wrong.  |  |
-|  34 | Teach your developers when to enable "bullshit mode". |  |
-|  35 | Fight the "I used to be a developer syndrom" |  |
-|  36 | Every manager should be able to push code into production |  |
-|  37 | Let senior management roll-out features by the push of physical button! |  |
-|  38 | Remove "hand-over" from the dictionary.  |  |
-|  39 | Every time someone says "hand-over" have him pay the next cradle of beer.  |  |
-|  40 | Every time someone says "let me ssh into ..." have pay the next cradle of beer.  |  |
-|  41 | Implement approval workflow for ssh access, make it complicated to use and track frequency of use.  | Cultural change; discipline |
+|  31 | If you are having a DevOps Team, you're doing it wrong.  | Culture |
+|  32 | If all of your development is done externally, you're doing it wrong. | Outsourcing |
+|  33 | If you are outsourcing on-call, you're doing it wrong.  | Outsourcing |
+|  34 | Teach your developers when to enable "bullshit mode". | Culture; Communication; Empowerment; Learning |
+|  35 | Fight the "I used to be a developer syndrom" | Culture; Coding |
+|  36 | Every manager should be able to push code into production | Coding; Confidence; Empowerment |
+|  37 | Let senior management roll-out features by the push of physical button! | Confidence; Empowerment |
+|  38 | Remove "hand-over" from the dictionary.  | Culture; Outsourcing; |
+|  39 | Every time someone says "hand-over" have him pay the next cradle of beer.  | Culture |
+|  40 | Every time someone says "let me ssh into ..." have pay the next cradle of beer.  | Confidence; Security; |
+|  41 | Implement approval workflow for ssh access, make it complicated to use and track frequency of use.  | Cultural change; Discipline |
 |  42 | I’m going to delete 10 lines of code from your project and if the build is green, we deploy! | Confidence |
-|  43 | What if we put the data into the cloud first? |  |
+|  43 | What if we put the data into the cloud first? | Culture; Outsourcing |
 |  44 | Automating triggers is as important as automating processes | Self-service; Discipline |
-|  45 | If you are management software projects like any other project, you're doing it wrong!  |  |
-|  46 | You can't steer, if you are not moving |  |
+|  45 | If you are managing software projects like any other project, you're doing it wrong!  | Discipline; Organization; Process |
+|  46 | You can't steer, if you are not moving | Culture; Process |
 |  47 | Open up APIs for all internal systems (PPM, Finance, ...) | Simplification; Cultural Change |
 |  48 | A new developer should deploy to production on his first day. | Success |
 |  49 | If you run unicorn sprints frequently, rethink your DevOps approach  | Success |
@@ -102,28 +104,28 @@
 |  66 | IT managers should have technical experience | Managing Trade-offs; Skills |
 |  67 | Non IT managers should trust IT managers technical decisions | Managing Trade-offs |
 |  68 | IT managers should understand business goals and make a good choice understanding the different trade-offs | Managing Trade-offs |
-|  69 | External partners should have an "open source mind" |  |
-|  70 | External partners should be able to provide consultants as interns for your company when required |  |
-|  71 | External partners should have a flexible pricing plan |  |
-|  72 | You will never get a product with quality, functionality and on time: you have to choose two |  |
-|  73 | Reinforce your arguments with data and working prototypes |  |
-|  74 | Ask forgiveness instead of permission, when strictly necessary |  |
-|  75 | Non technical managers are smart, they just need to have a high level explanation |  |
+|  69 | External partners should have an "open source mind" | Outsourcing |
+|  70 | External partners should be able to provide consultants as interns for your company when required | Outsourcing |
+|  71 | External partners should have a flexible pricing plan | Outsourcing |
+|  72 | You will never get a product with quality, functionality and on time: you have to choose two | Decision Making |
+|  73 | Reinforce your arguments with data and working prototypes | Communication; Simplification; Value |
+|  74 | Ask forgiveness instead of permission, when strictly necessary | Decision Making; Managing Trade-offs |
+|  75 | Non technical managers are smart, they just need to have a high level explanation | Communication |
 |  76 | Whenever conflict might arise, set up a robot to handle it. People can't argue with robots | Process |
 |  77 | Building trust should be your top priority | Cultural Change |
-|  78 | If a colleague made a mistake, blame the process, and fix it so it won't happen again |  |
-|  79 | Version control everything |  |
-|  80 | Discipline should enable flexibility, not the other way around |  |
-|  81 | Treat errors in your monitoring system like production outages.  | Reliabilty |
-|  82 | **....value developer velocity....** |  |
+|  78 | If a colleague made a mistake, blame the process, and fix it so it won't happen again | Culture; Learning |
+|  79 | Version control everything | Coding |
+|  80 | Discipline should enable flexibility, not the other way around | Discipline |
+|  81 | Treat errors in your monitoring system like production outages.  | Reliability |
+|  82 | **....value developer velocity....** | Process |
 |  83 | Development, staging, or test are like production, don't give your developers access to these systems.  | Discipline |
 |  84 | Record and meter ssh-access, put incentives to lower the total login count.  | Compensation; Cultural Change |
 |  85 | You don't do DevOps to reduce cost in the first place.  | Cultural Change |
 |  86 | Code that is not in production is a liability | Lean |
-|  87 | Manage a top ten list of long running systems, put it on a big screen, call it wall of shame.  |  |
-|  88 | Make everything a software problem |  |
-|  89 | Instead of wasting time and resources fighting the inevitable, empower developers and reap the rewards. |  |
-|  90 | Why don't we start with the data?  |  |
+|  87 | Manage a top ten list of long running systems, put it on a big screen, call it wall of shame.  | Culture; Discipline |
+|  88 | Make everything a software problem. | Coding; Culture |
+|  89 | Instead of wasting time and resources fighting the inevitable, empower developers and reap the rewards. | Hiring; HR |
+|  90 | Why don't we start with the data?  | Culture |
 |  91 |  |  |
 |  92 |  |  |
 |  93 |  |  |
