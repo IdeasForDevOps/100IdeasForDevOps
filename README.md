@@ -1,6 +1,36 @@
 # 100 Ideas for DevOps
 100 Ideas to bring DevOps into an Organization
 
+## Categories
+
+* Coding
+* Compensation
+* Confidence
+* Continous learning, experimenting
+* Cost reduction
+* Cultural Change
+* Culture
+* Decision Making
+* Discipline
+* Empowerment
+* Hiring
+* HR
+* IaC
+* Incentivize Responsibility
+* Lean
+* Learning
+* Managing Trade-offs
+* Organization
+* Organizational Change
+* Process
+* Reliabilty
+* Security
+* Self-service
+* Simplification
+* Skills
+* Success
+* Value
+
 ## List
 |  **ID** | **Idea** | **Category** |
 |  :----: | ------ | :----: |
