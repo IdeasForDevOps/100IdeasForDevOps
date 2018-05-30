@@ -88,7 +88,7 @@
 |  50 | In a mature DevOps culture, there should be no unicorn sprints | Success |
 |  51 | The amount of tickets that you need to file to run your service, is inversionally proportional to your DevOps maturity  | Self-service; Simplification |
 |  52 | The amount of emails and people on cc that you need to send to run your service, is inversionaly propotional to your level of DevOps maturity | Self-service; Simplification |
-|  53 | The amount of people that yiubhqv- to tali to that you need to send to run your service, is inversionaly propotional to your level of DevOps maturity | Self-service; Simplification |
+|  53 | The amount of people that you need to speak to to run to run your service, is inversionaly propotional to your level of DevOps maturity | Self-service; Simplification |
 |  54 | Put trust on the developers you have, and they will create great things | Empowerment |
 |  55 | Software development is chaotic, follow the discipline but be ready to embrace chaos | Empowerment |
 |  56 | Communication is terrible, keep the teams small | Simplification; Organization |
