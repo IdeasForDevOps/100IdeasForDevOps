@@ -38,44 +38,44 @@
 |  :----: | ------ | :----: |
 |  1 | Provide unlimited access to online trainings to your employees | HR; Learning; Skills |
 |  2 | Transfer HR and finance from departments into chapters embedded in the different teams | Organizational Change |
-|  3 | Let dev lives the life of ops for a while and vice | Cultural Change |
+|  3 | Let devs live the life of ops for a while and vice versa | Cultural Change |
 |  4 | Let a young promising employee mentor management on new technologies or simply usage of technologies | Cultural Change |
 |  5 | Ask a venture capital firm to listen to the pitch of your senior management trying to virtually sell their department | Cultural Change; Value; |
-|  6 | Give credits on public clouds to any of your IT colleagues | Continous learning, experimenting |
-|  7 | Target the shutdown your email server to be replaced by more modern communication means | Cultural Change |
+|  6 | Give credits to any of your IT colleagues on public forums | Continous learning, experimenting |
+|  7 | Target the shutdown of your email server to be replaced by more modern communication means | Cultural Change |
 |  8 | Use Markdown as your default format for documents (blogs, minutes, user stories, documentation) and git as your way to track history and to collaborate. | Cultural Change |
 |  9 | All IT staff members have at least minimum shell script skills | Skills; HR; Hiring |
 |  10 | Teach IT staff members a programming language requiring a minimalist development environment like javascript, python, go, vb. | Skills; HR; Hiring |
 |  11 | Provide a command line tool to report time instead of a web UI | Cultural Change |
 |  12 | Teach everybody hacking techniques: social engineering, phishing, password cracking to improve the security on all the systems in the company | Security; Cultural Change |
-|  13 | Encourage people to get interviews at software-centric companies so that they understand their expectations | HR; Hiring; Cultural Change |
-|  14 | Establish agreements with public cloud firms. They can have their employees as intern in your company and vice | Skills; Cultural Change |
+|  13 | Encourage people to interview at software-centric companies so that they understand their expectations | HR; Hiring; Cultural Change |
+|  14 | Establish agreements with public cloud firms. They can have their employees as intern in your company and vice versa | Skills; Cultural Change |
 |  15 | Train everyone on simple IT topics and get rid of the IT hotline | Skills; Cost reduction; Self-service |
-|  16 | Have an exponential complexity to obtain budget when the budget requested gets bigger. Low budget, no question. | Decision Making; Cultural Change |
+|  16 | Have an exponential complexity for big budget requests, low budget, no question (akin to progressive income tax). | Decision Making; Cultural Change |
 |  17 | Set lower salary ranges to managers than to technical experts | HR; Compensation |
-|  18 | What if the intranet makes it ultra simple to give credit to somebody that teaches you something and that these credits result in the transfer of bonus from one employee to the other. | Compensation; Cultural Change |
+|  18 | Make it ultra simple to give credit to somebody that teaches you something so that these credits result in the transfer of bonus from one employee to the other. | Compensation; Cultural Change |
 |  19 | What if co-opting recognized talent brings a lot of money to the person hiring the talent? | HR; Compensation |
-|  20 | Hire with very clear objectives for the first 6 months and schedule monthly review meetings and yearly goals | HR; Skills; Learning |
-|  21 | Announce prizes for simplification or automation of processes | Simplification; Compensation |
-|  22 | Set financial incentives for objectives achieved in less time than planned | Compensation; Cultural Change |
+|  20 | Hire with very clear objectives for the first 6 months and schedule monthly review meetings and yearly goals. | HR; Skills; Learning |
+|  21 | Announce prizes for simplification or automation of processes. | Simplification; Compensation |
+|  22 | Set financial incentives for objectives achieved in less time than planned. | Compensation; Cultural Change |
 |  23 | Ops will only get their bonus only if they achieve their SLA with a 0.02% delta: 99.9%+ 0.02%.  | Compensation  |
-|  24 | Create financial benefits for all staff involved in running a service | Incentivize Responsibility |
+|  24 | Create financial benefits for all staff involved in running a service. | Incentivize Responsibility |
 |  25 | Ask IT managers to reduce cost by 20% and to cut release cycles into half every quarter | Managing Trade-offs; Cost reduction |
 |  26 | So you did not have a single outage in the last month! Restart production now. | Cultural Change |
 |  27 | Everybody must do oncall rotations, it's free money anyways.  | Compensaton; Incentivize Responsibility |
-|  28 | Make on-call voluntary. If you don't have a hard time finding engineers. Your must have reliable system. | Cultural Change; Incentivize Responsibility |
+|  28 | Make on-call voluntary. If you don't have a hard time finding engineers, you must have reliable systems. | Cultural Change; Incentivize Responsibility |
 |  29 | Make on-call voluntary. If you don't have a hard time finding engineers, then your DevOps maturity is high. | Incentivize Responsibility |
-|  30 | Stop feature development, if your engineers do not create code for more than 50% of their time. | Cultural Change |
-|  31 | If you are having a DevOps Team, you're doing it wrong.  | Culture |
+|  30 | Stop feature development if your engineers do not create code for more than 50% of their time. | Cultural Change |
+|  31 | If you are having a separate DevOps Team, you're doing it wrong.  | Culture |
 |  32 | If all of your development is done externally, you're doing it wrong. | Outsourcing |
 |  33 | If you are outsourcing on-call, you're doing it wrong.  | Outsourcing |
 |  34 | Teach your developers when to enable "bullshit mode". | Culture; Communication; Empowerment; Learning |
 |  35 | Fight the "I used to be a developer syndrom" | Culture; Coding |
 |  36 | Every manager should be able to push code into production | Coding; Confidence; Empowerment |
-|  37 | Let senior management roll-out features by the push of physical button! | Confidence; Empowerment |
+|  37 | Let senior management roll-out features by the push of a physical button! | Confidence; Empowerment |
 |  38 | Remove "hand-over" from the dictionary.  | Culture; Outsourcing; |
-|  39 | Every time someone says "hand-over" have him pay the next cradle of beer.  | Culture |
-|  40 | Every time someone says "let me ssh into ..." have pay the next cradle of beer.  | Confidence; Security; |
+|  39 | Every time someone says "hand-over" have them pay the next cradle of beer.  | Culture |
+|  40 | Every time someone says "let me ssh into ..." have them pay the next cradle of beer.  | Confidence; Security; |
 |  41 | Implement approval workflow for ssh access, make it complicated to use and track frequency of use.  | Cultural change; Discipline |
 |  42 | I’m going to delete 10 lines of code from your project and if the build is green, we deploy! | Confidence |
 |  43 | What if we put the data into the cloud first? | Culture; Outsourcing |
