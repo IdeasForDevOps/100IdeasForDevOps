@@ -21,3 +21,5 @@ All these tools offer advantages over emails and you may end up not having to us
 ## What is the connection with DevOps?  
 DevOps is a lot about removing frictions and establishing clear contracts between actors.  
 This is exactly what the advantages of the tools replacing emails offer. So targeting not emails addresses the mindest shift required when moving to devops.  
+
+Reference: https://www.forbes.com/sites/davidburkus/2016/07/12/why-atos-origin-is-striving-to-be-a-zero-email-company/#4daed6968d0f
