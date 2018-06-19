@@ -1,4 +1,4 @@
-# No Email
+# 7- No Emails
 
 Emails have been used in many occasions as a way to digitalize processes but it didn't really improve the processes in themselves. Instead of paper, you have emails and exactly the same problems:  
 * no status of a request  
