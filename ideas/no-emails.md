@@ -16,7 +16,7 @@ It's a pity because there are a lot of new tools that can replace most of the cl
 * specialized object storage: document sharing  
 * development tools: communications on features, bugs, code, design...  
 
-All these tools offer advantages over emails and you may end up not having to use emails so much whenever you start using these tools. The only reason why emails are still so popular is the ubiquity and adoption of emails. Everybody has an email address and mailer exists on any platforms.  
+All these tools offer advantages over emails and you may end up not having to use emails so much whenever you start using these tools. The only reason why emails are still so popular is the ubiquity and the level of adoption of emails. Everybody has an email address and mailers exist on any platforms.  
 
 ## What is the connection with DevOps?  
 DevOps is a lot about removing frictions and establishing clear contracts between actors.  
